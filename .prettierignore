@@ -1,0 +1,29 @@
+# Pastas de build/output
+dist
+build
+coverage
+
+# Dependências
+node_modules
+bun.lockb
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Logs e cache
+*.log
+
+# Configuração
+.eslintcache
+
+# Assets e arquivos não-code
+public
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.svg
+*.ico
+*.mp4
+*.mp3
+*.webp
